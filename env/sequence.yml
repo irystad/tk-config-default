@@ -58,7 +58,7 @@ engines:
     compatibility_dialog_min_version: 2017
     debug_logging: false
     location:
-      version: v0.1.12
+      version: v0.1.14
       type: app_store
       name: tk-3dsmaxplus
     menu_favourites: []
@@ -130,7 +130,7 @@ engines:
     debug_logging: false
     favourite_directories: []
     location:
-      version: v0.5.6
+      version: v0.6.0
       type: app_store
       name: tk-nuke
     menu_favourites:
